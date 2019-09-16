@@ -1,3 +1,6 @@
 name: sabir
 position-head engineer
 objective :sssssss
+title : nothing yet
+programming languages:  java, c#
+IDE: microsoft visual studio, eclipse, 
